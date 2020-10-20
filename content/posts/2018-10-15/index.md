@@ -2,7 +2,7 @@
 path: '/supportive-services'
 cover: './blocks.jpg'
 # date: ''
-title: 'Supportive Service'
+title: 'Supportive Servic'
 published: true
 tags: ['website', 'react', 'other']
 ---
