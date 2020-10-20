@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/test","webpackCompilationHash":"","result":{"pageContext":{"isCreatedByStatefulCreatePages":false,"posts":[{"frontmatter":{"path":"/employement","title":"Employement","tags":["test","webpack","other"]}}],"tagName":"test"}}}
+{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/test","result":{"pageContext":{"posts":[{"frontmatter":{"path":"/employement","title":"Employement","tags":["test","webpack","other"]}}],"tagName":"test"}},"staticQueryHashes":["1830426702"]}

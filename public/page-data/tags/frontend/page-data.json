@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/frontend","webpackCompilationHash":"","result":{"pageContext":{"isCreatedByStatefulCreatePages":false,"posts":[{"frontmatter":{"path":"/food","title":"Food","tags":["tutorial","javascript","frontend"]}}],"tagName":"frontend"}}}
+{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/frontend","result":{"pageContext":{"posts":[{"frontmatter":{"path":"/food","title":"Food","tags":["tutorial","javascript","frontend"]}}],"tagName":"frontend"}},"staticQueryHashes":["1830426702"]}
