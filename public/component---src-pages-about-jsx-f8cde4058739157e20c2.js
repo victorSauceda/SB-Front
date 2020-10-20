@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{241:function(t,e,n){"use strict";n.r(e);var a=n(0),o=(n(1),n(119)),u=n.n(o),b=n(118),c=n(117);e.default=function(t){return Object(a.d)(c.d,null,Object(a.d)(u.a,{title:"About Page"}),Object(a.d)(b.b,{title:"About Page"},"Santa Barbara Re-entry App"),Object(a.d)(c.a,{center:t},Object(a.d)("h3",null,"these are some things that you should know")))}}}]);
-//# sourceMappingURL=component---src-pages-about-jsx-f8cde4058739157e20c2.js.map

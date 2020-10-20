@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{237:function(t,e,a){"use strict";a.r(e);var n=a(0),c=(a(1),a(117)),r=a(118);e.default=function(t){var e=t.pageContext.tags;return Object(n.d)(c.d,null,Object(n.d)(r.b,{title:"Tags Page"},"Santa Barbara Re-entry App"),Object(n.d)(c.a,null,Object(n.d)(r.e,{list:e})))}}}]);
-//# sourceMappingURL=component---src-pages-tags-jsx-b10f5f658229d31fdf1e.js.map
