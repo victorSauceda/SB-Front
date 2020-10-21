@@ -7,4 +7,4 @@ tags: ['tutorial', 'javascript', 'frontend']
 published: true
 ---
 
-Some info about food
+Some info about foo
